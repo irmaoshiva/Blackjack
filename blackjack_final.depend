@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1463778778 source:/home/pedro/Desktop/blackjack_final/main.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	"estruturas_e_prototipos.h"
+	"prototipos_grafica.h"
+
+1462362872 /home/pedro/Desktop/blackjack_final/cartas.h
+
+1463686775 /home/pedro/Desktop/blackjack_final/prototipos.h
+
+1463774687 source:/home/pedro/Desktop/blackjack_final/Parte_grafica.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"estruturas_e_prototipos.h"
+	"prototipos_grafica.h"
+
+1463686988 source:/home/pedro/Desktop/blackjack_final/ler_ficheiro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"estruturas.h"
+
+1463691646 /home/pedro/Desktop/blackjack_final/estruturas.h
+
+1463775021 source:/home/pedro/Desktop/blackjack_final/fim_jogada.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"estruturas_e_prototipos.h"
+
+1463725715 source:/home/pedro/Desktop/blackjack_final/frees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"estruturas_e_prototipos.h"
+
+1463777444 source:/home/pedro/Desktop/blackjack_final/funcoes_auxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"estruturas_e_prototipos.h"
+
+1463712908 source:/home/pedro/Desktop/blackjack_final/incio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"estruturas_e_prototipos.h"
+
+1463775366 source:/home/pedro/Desktop/blackjack_final/jogada.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"estruturas_e_prototipos.h"
+
+1463715806 source:/home/pedro/Desktop/blackjack_final/pilhas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"estruturas_e_prototipos.h"
+
+1463725643 /home/pedro/Desktop/blackjack_final/estruturas_e_prototipos.h
+
+1463725668 /home/pedro/Desktop/blackjack_final/prototipos_grafica.h
+
+1463775230 source:/home/pedro/Desktop/blackjack_final/inicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"estruturas_e_prototipos.h"
+

@@ -1,0 +1,16 @@
+Tiago (HU): 
+ ganhou 0 jogadas;
+ perdeu 1 jogadas;
+ empatou 0 jogadas;
+
+Bot (EA): 
+ ganhou 1 jogadas;
+ perdeu 0 jogadas;
+ empatou 0 jogadas;
+
+Manuel (HU): 
+ ganhou 0 jogadas;
+ perdeu 1 jogadas;
+ empatou 0 jogadas;
+
+Saldo da Mesa: 150.0
